@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 
-https://github.com/kharishgit/peerxptask.git
+https://github.com/kharishgit/peerxptassessment.git
 
 2. Install the requirements
   - pip install -r requirements.txt
